@@ -12,7 +12,7 @@ python3 -m pip install --upgrade pip
 pip install requests
 pip install mechanize
 pip install future
-rm -rf Pro-Syed
+rm -rf BABA
 git clone https://github.com/phoneGenerator.py
 cd phoneGenerator
 python Run.py
